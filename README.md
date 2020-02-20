@@ -1,16 +1,11 @@
 # mi_card_flutter
 
-A new Flutter project.
+A project for presentation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simply visit card containing a profile picture, the phone number and the email adress.
 
-A few resources to get you started if this is your first Flutter project:
+![Mi Card](https://drive.google.com/file/d/12fLIMugjvnbSxEArMQd5UI4esIte9ZDZ/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Thank you for the visit**.
