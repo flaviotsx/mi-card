@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Text(
-                'FULLSTAK DEVELOPER',
+                'FULLSTACK DEVELOPER',
                 style: TextStyle(
                   fontFamily: 'Source Sans Pro',
                   color: Colors.indigoAccent.shade100,
